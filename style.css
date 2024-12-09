@@ -1,0 +1,17 @@
+.main-header
+{
+    background-image: url('https://img.freepik.com/premium-photo/black-friday-concept-shopping-cart-dark-background_996173-2417.jpg');
+    background-size: cover;
+    background-position: center;
+}
+
+.navbar-toggler-icon
+{
+    color: white !important;
+}
+
+/* .banner
+
+{
+    margin-top: -150px;
+} */
